@@ -1,7 +1,7 @@
   # Pickaboo Tuner - Support
   Support page for Pickaboo Tuner iOS app
   <p align="center">
-    <img src="https://github.com/Like1Shot/pickaboo-tuner-support/raw/main/Pickaboo.gif" width="300" alt="Pickaboo Tuner 
+    <img src="https://github.com/Like1Shot/pickaboo-tuner-support/raw/main/Pickaboo.gif" width="400" alt="Pickaboo Tuner 
   Icon">
   </p>
 
