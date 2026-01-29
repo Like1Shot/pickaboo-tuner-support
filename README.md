@@ -54,8 +54,7 @@
 
   Having issues or suggestions? We'd love to hear from you!
 
-  - **Email:** [Will Update Soon]()
-  - **Report a Bug:** [Open an Issue](https://github.com/Like1Shot/pickaboo-tuner-support/issues/new)
+  - **Report a Bug Here!:** [Open an Issue](https://github.com/Like1Shot/pickaboo-tuner-support/issues/new)
 
   ---
 
