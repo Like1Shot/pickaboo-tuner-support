@@ -74,11 +74,10 @@
   For AdMob's privacy practices, see: [Google Privacy Policy](https://policies.google.com/privacy)
 
   ---
-
-  ## Links
-
+  ## Quick Links
   - [Download on App Store](#) *(coming soon)*
-
+  - [Support & FAQ](https://like1shot.github.io/pickaboo-tuner-support)
+  - [Privacy Policy](https://like1shot.github.io/pickaboo-tuner-support/privacy-policy)
   ---
 
   <p align="center">
